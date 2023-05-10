@@ -23,3 +23,8 @@ a {
 a:hover {
   color: red;
 }
+
+.ingredients-box {
+  border: black solid 5px;
+  border-radius: 15px;
+}
